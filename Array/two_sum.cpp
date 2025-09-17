@@ -1,3 +1,12 @@
+/*
+Run Time: 46ms
+Beats: 19.08 %ile
+Time Complexity: O(n^2)
+
+Memory Usage: 14MB
+Beats: 92.99 %ile
+Space Complexity: O(1)
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
